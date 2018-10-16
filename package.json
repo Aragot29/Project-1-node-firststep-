@@ -1,0 +1,22 @@
+{
+  "name": "project-1-node-firststep-",
+  "version": "1.0.0",
+  "description": "premier test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aragot29/Project-1-node-firststep-.git"
+  },
+  "author": "aragot29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aragot29/Project-1-node-firststep-/issues"
+  },
+  "homepage": "https://github.com/Aragot29/Project-1-node-firststep-#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
